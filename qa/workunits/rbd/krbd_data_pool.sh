@@ -3,7 +3,7 @@
 set -ex
 
 export RBD_FORCE_ALLOW_V1=1
-
+echo "Julius and Harrish work hard"
 function fill_image() {
     local spec=$1
 
